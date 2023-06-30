@@ -17,4 +17,4 @@ def start():
         print()
 start()
 
-#works best with n = 32
+#works best with 2^n numbers
